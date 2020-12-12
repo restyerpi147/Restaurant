@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+
+    <string name="content_price">Rp.25.000</string>
+    <string name="content_text">Nasi adalah sebuah bagian penting dari masakan tradisional Tionghoa, menurut catatan sejarah sudah mulai ada sejak 4000 SM. Nasi goreng kemudian tersebar ke Asia Tenggara dibawa oleh perantau-perantau Tionghoa yang menetap di sana dan menciptakan nasi goreng khas lokal yang didasarkan atas perbedaan bumbu-bumbu dan cara menggoreng. Nasi goreng sebenarnya muncul dari beberapa sifat dalam kebudayaan Tionghoa.</string>
+    <string name="content_specs_menu">Lobster, Salad, Ayam Kremes</string>
+    <string name="contect_specs_size">Rp.35.000, Rp.20.000, Rp.55.000</string>
+
+
+</resources>
